@@ -1,0 +1,15 @@
+int f(int x, int y)
+{
+	if(x<y)
+	{
+		a = b + c*d;
+	}
+}
+
+
+int main()
+{
+	int a;
+	int b;
+	c = f(a,b);
+}

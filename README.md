@@ -16,3 +16,5 @@ It will generate following files:
 The simplified grammar and its Parse Table are placed in the "/grammar&parseTable" folder  
 You can have a look how grammar is converted into the Parse Table.  
 The Parse Table will also include some symbols ^A(digit). This is an Action symbol that is needed for generating the 3 Address code.
+  
+PS did not implemented machine code generation and optimization. :)
